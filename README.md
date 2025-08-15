@@ -13,12 +13,13 @@ To keep reusable code snippets for future projects
 
  What’s Inside
  llm-playground
- ┣  README.md        # This file
- ┣  notebooks        # Jupyter/Colab notebooks for experiments
- ┣  src              # Python scripts and reusable code
- ┣  datasets         # Sample data for testing/training
- ┣  notes            # My explanations and summaries
- ┗  experiments      # Small projects & prototypes
+ 
+ ┣  README.md        # This file \n
+ ┣  notebooks        # Jupyter/Colab notebooks for experiments\n
+ ┣  src              # Python scripts and reusable code\n
+ ┣  datasets         # Sample data for testing/training \n
+ ┣  notes            # My explanations and summaries \n
+ ┗  experiments      # Small projects & prototypes \n
 
  Topics I’ll Explore
 
