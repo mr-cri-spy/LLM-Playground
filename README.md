@@ -11,17 +11,22 @@ To document my learning in simple words
 
 To keep reusable code snippets for future projects
 
- What’s Inside
+ # What’s Inside
  llm-playground
  
- ┣  README.md        # This file \n
- ┣  notebooks        # Jupyter/Colab notebooks for experiments\n
- ┣  src              # Python scripts and reusable code\n
- ┣  datasets         # Sample data for testing/training \n
- ┣  notes            # My explanations and summaries \n
- ┗  experiments      # Small projects & prototypes \n
+   README.md        # This file 
+   
+   notebooks        # Jupyter/Colab notebooks for experiments
+   
+   src              # Python scripts and reusable code
+   
+   datasets         # Sample data for testing/training
+   
+   notes            # My explanations and summaries 
+   
+   experiments      # Small projects & prototypes 
 
- Topics I’ll Explore
+# Topics I’ll Explore
 
 LLM basics with OpenAI, Hugging Face, LangChain
 
@@ -39,7 +44,7 @@ Evaluating LLM performance
 
  How I’m Keeping It Updated
 
-Each experiment has:
+# Each experiment has:
 
 A working notebook/script
 
@@ -55,18 +60,18 @@ docs: updated prompt engineering notes
 
 # How to Try It Yourself
 
-Clone this repo:
+# Clone this repo:
 
 git clone https://github.com/<your-username>/llm-playground.git
 cd llm-playground
 
 
-Install requirements:
+# Install requirements:
 
 pip install -r requirements.txt
 
 
-Open any notebook in notebooks/ and run it.
+# Open any notebook in notebooks/ and run it.
 
 
  # About Me
