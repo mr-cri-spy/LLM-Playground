@@ -24,7 +24,7 @@ output_dir: ./models/TinyLlama_Storyteller
 sequence_length: 1024
 bf16: auto
 tf32: false
-tf32: false
+
 
 #training params
 batch_size: 4
