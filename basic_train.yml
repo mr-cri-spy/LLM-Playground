@@ -7,6 +7,7 @@ model_type: LlamaForCausalLM
 tokenizer_type: LlamaTokenizer
 
 
+
 #dataset params
 datasets:
  - path: jaydenccc/AI_Storyteller_Dataset
@@ -22,6 +23,7 @@ output_dir: ./models/TinyLlama_Storyteller
 #model params
 sequence_length: 1024
 bf16: auto
+tf32: false
 tf32: false
 
 #training params
